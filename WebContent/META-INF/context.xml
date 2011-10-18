@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/sigafrota">
+	<Resource 
+		name="jdbc/sigafrota"
+		auth="Container"
+		type="javax.sql.DataSource"
+		username="sigafrota"
+		password="@2011"
+		driverClassName="org.postgresql.Driver"
+		url="jdbc:postgresql://localhost:5432/sigafrota"/>
+
+</Context>
